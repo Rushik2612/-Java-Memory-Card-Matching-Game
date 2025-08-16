@@ -1,7 +1,6 @@
 
 # 🃏 Flip and Match - Memory Card Game
 
-**Team 11**
 
 Flip and Match is a fun and interactive **memory card game** built using **Java Swing**. The objective is simple: flip over two cards at a time to find all the matching pairs. The game tracks your number of moves and time taken, encouraging both speed and memory!
 
